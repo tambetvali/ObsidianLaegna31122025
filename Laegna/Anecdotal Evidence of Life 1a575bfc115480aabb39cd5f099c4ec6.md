@@ -1,0 +1,15 @@
+# Anecdotal Evidence of Life
+
+When we look into biology definition of Life, we find around seven criteria, which are all more or less easy to implement in computer. We can know that in this computer simulation, there would be no life as we know it, with feelings and consciousness - yet our simulation can create things, which reproduce, mutate and have metabolism.
+
+This science itself is not bad - from science, we need objective and measured facts. Also, we can be sure that we can measure life in different mathematical coordinate systems; in this case it's very possible that from biology, we get all the information about structures of life so that we could even create a computer simulation, which might not lack impressions of qualities such as deep thinking. But in other encoding, life has another aspect, the consciousness or cognition - this is an inner quality, and when it's mathematically very possible in absolute synchronization with the biological processes, such that none is left out (in ideal implementation, probably with more biological facts - but the science would still be as cold). It's like text in the book - it contains all the words and sentences, and we can see the meaning, but it does not directly contain the meaning itself.
+
+Physical process is two-faceted, the *introverted* and *extraverted* projection. The extraverted projection is seen from outside, and it resembles flesh and bones. The introverted projection is seen from inside, and it consists of thoughts and feelings. Scientists have some hard facts that one projects to another - from information of one projection, with ideal physics and soul science, we could directly get the other. But the problem is - the scientists do not know this mapping.
+
+Scientists have used the mocking word "anecdotal evidence" in cases mysticians do not provide enough physical details. They think a mystician is responsible for evidence, but mysticians are rather interested in ethics. The responsibility is in Science, if it exists at all. We can see scientists have made measurements about whether humans contain soul, they have made measurements about claims about life - but in case we are talking about sentient life with feelings and thoughts, all of this is only an anecdotal evidence. They can say nothing at all, for example about whether matter or Universe have feelings.
+
+Our own senses to feel all this are far superior.
+
+I must add that this problem does not exist in advanced science, which carefully uses probabilities where they are. Simplistic and popular science removes probabilities and replaces them with simple models, which give "most believable" result. But "simple" and "believable" are not scientific criteria - the Universe does not have to be so simple, and moreover, for a person, which has different experiences, those experiences are very simple.
+
+So next time a scientist is telling you that you have "anecdotal evidence" (a term, official), you should consider that you have your own evidence and they cannot verify that. It like telling you "I'm stupid" and expecting that it works in opposite direction - when you're stupid, shut up.
