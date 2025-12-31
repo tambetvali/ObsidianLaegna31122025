@@ -1,0 +1,22 @@
+# Practical immortality
+
+In my buddhist practice or life, first I experienced the classical enlightenment of Mind when 17, and then the kundalini awakening of body and materialization of thought when I was 28. From that point I wanted to get a physical awakening and awakening of immortality; now I'm 40 - for last 8 or 10 years I have worked a little for awakening in material world, but now I work a lot on this. I think in the middle of life is one of the best times to move to material adultness from the intellectual and spiritual or mental youth.
+
+Immortality is in three facts:
+
+- Karmic solutions to have stronger mind to connect the cycles of reincarnation into meaningful whole and connected line of time, from parts scattered through time and place, being unaware of their existence in others.
+- Materialistic solution of spreading our good karma in society and future generations; here, the soul is immortal - our extension to outer world. In this way, writers or composers can be seen as immortal souls.
+- Physical solution of having the body survive the reincarnative transformations.
+
+I decided that I take a logical pathway, which would useful in any kind of hypothesis about the world and the reincarnation cycle, not leaving out the materialist solution, but work well in case of development. I don't know, in which parts different particioners would stop, and I see many materialistic alternatives to enlightenment, where the only important component is good karma. With work in material world, and peacefulness, one would definitely achieve good karma, and with sensation of the system dynamics and integrals, some good karma with God. This is enough to survive in meaningful sense.
+
+I saw the following conceptions as useful, from study of Buddhism and personal creativity:
+
+- To find the smallest units of immortality; such as only having a little bit more memories or longer physical life through my lifetimes. I think it's a huge mistake to try to achieve the ideal state very fast, when all we need is exercise and patience.
+- To see all the fractal of life in dimension of reincarnation cycles. Our thoughts, emotions, relations - they are born and they die; with their original reasons still there, they reincarnate. This always has the phase of life, where they are actualized; then the phase of mentally retravelling the situations to solve the past karma; and finally sensing the harmonic existence as being the source of reincarnation of such emotion, thought or relationship. Solving all this vibrates more and more elements of immortality of the whole, which consists of these parts and repeats them high in the fractal, as dynamics of our own lives in reincarnation cycles.
+- To practice the Zen - rebirth is creating us with new spark of direction forward, where this causes death to happen once the world has turned, but we still go forward - here, we are not ourselves any more, but we are dead. Would we lose our meaning in Universe, and not be theorems any more, we would pass away without pain, and our reincarnation cycle would end - this is not very real, but it's the what-if case. Practicing Zen for all this, to pass away calmfully when it's time, would release from abuse of immortality and thus be the prerequisite in the world, where we do not get anything we could not let go.
+- To help others when I see some opportunity, with the same, so that there would appear a karmic cycle necessary to deserve.
+
+I have also some meditations where I felt the harmony in last phase of reincarnation cycle and somewhat solved this. The meaningful part of meditations of reincarnation are to connect the past and future cycles of fractal elements to find their deeper and lasting identity, so that they achieve Mind; from the state, where we always restore the same basic instincts or desires, but they do not recognize themselves and connect the cycle into more stable flow. Death of emotion or relationship has a lot of feeling of death or loss inside, and to see the reincarnation cycle and it's motives to solve, one has to meditate on this and understand, who loss of emotions is like loss of life.
+
+[Practical Immortality: A Philosophical and Spiritual Exploration of Life, Death, and Reincarnation](Practical%20immortality/Practical%20Immortality%20A%20Philosophical%20and%20Spiritua%201af75bfc11548056a850cbd76e1668d5.md)
