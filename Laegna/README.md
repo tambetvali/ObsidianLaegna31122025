@@ -1,90 +1,84 @@
-# 🌿 Laegna — Knowledge Vault
+# 🌿 Laegna — Introduction to the Vault
 
-This repository contains the **Laegna knowledge vault**, a collection of interconnected writings, conceptual notes, and supporting materials centered around the main document:
+This repository is a **knowledge vault** for the Laegna system:  
+a body of work connecting **AI foundations, mathematics, symbolic healing, Taoist patterns, mind–body emergence, and spiritual science** into one conceptual landscape.
 
-👉 **[Laegna 1a575bfc115480a38129e9a9787ab565.md](./Laegna%201a575bfc115480a38129e9a9787ab565.md)**
-
-This root file is the **core text** of the Laegna system.  
-It introduces the ideas, themes, and conceptual foundations that the rest of the vault expands upon.
-
----
-
-## 📘 The Laegna Text
-
-The main Laegna document presents a unified body of thought exploring:
-
-- the structure of meaning  
-- the development of inner and outer systems  
-- conceptual resonance and coherence  
-- the relationship between perception, mathematics, and lived experience  
-- the unfolding of ideas through layered, interconnected notes  
-
-It is written as a continuous text, but it naturally branches into smaller conceptual units.  
-Those branches appear in the `/Laegna` folder.
-
----
-
-## 🌱 The Laegna Vault
-
-The folder:
-
-👉 **[`/Laegna`](./Laegna/)**
-
-contains the **expanded universe** of the main document — the notes, definitions, clarifications, and conceptual side‑paths that originally appeared in the Notion side pane.
-
-These files correspond to:
-
-- sub‑chapters  
-- elaborations of key ideas  
-- supporting reflections  
-- conceptual nodes referenced by the main text  
-
-Together, they form a **navigable knowledge tree**, allowing the reader to move between the central narrative and its deeper layers.
-
----
-
-## 🧭 How to Read the Vault
-
-1. **Begin with the main Laegna document**  
-   It provides the orientation and conceptual grounding.
-
-2. **Follow its references into the `/Laegna` folder**  
-   Each linked note expands a specific idea or opens a new conceptual branch.
-
-3. **Explore freely**  
-   The vault is designed for non‑linear reading.  
-   Notes connect through meaning rather than strict hierarchy.
-
-4. **Use any Markdown‑friendly environment**  
-   GitHub, Obsidian, VS Code, or any plain‑text reader will work.
-
----
-
-## 🌐 Context
-
-The Laegna material originates from a larger conceptual environment and has been adapted into this Markdown vault so it can be:
-
-- read  
-- studied  
-- extended  
-- reorganized  
-- explored as a living body of knowledge  
-
-The structure mirrors the original Notion workspace, where the main document was accompanied by a side‑pane of related notes — now represented by the `/Laegna` folder.
-
----
-
-## 📜 Summary
-
-This repository is the **Laegna vault**:  
-a central text supported by a constellation of notes that together form a coherent conceptual landscape.
-
-Start here:
+At the center of the vault is the root document:
 
 👉 **[Laegna 1a575bfc115480a38129e9a9787ab565.md](./Laegna%201a575bfc115480a38129e9a9787ab565.md)**
 
-Then explore the branches in:
+That file is the main path into Laegna: it sketches the overall vision and points into more detailed notes collected in the **Laegna** subtree.
 
-👉 **[`/Laegna`](./Laegna/)**
+---
 
-The vault is meant to be read, explored, and lived with — a space where ideas unfold through connection.
+## 🌳 What Laegna Is About
+
+Laegna is not just a single theory; it is a **field of related explorations**:
+
+- **Mathematical and logical structures**  
+  How abstract patterns, invariants, and symbolic systems can describe both AI and inner experience.
+
+- **AI foundations and deep learning intuition**  
+  The same author maintains Laegna‑related AI repositories that aim to make deep learning concepts more intuitive and structurally clear for practitioners.
+
+- **Symbolic healing and Taoist patterns**  
+  How symbolic systems, body–mind processes, and Taoist‑inspired forms connect into a coherent way of working with change and alignment.
+
+- **Mind–body emergence and spiritual science**  
+  Reflections on how subjective experience, formal structures, and “spiritual” insight can be treated with the same seriousness as mathematics and computation.
+
+Laegna treats these domains as **different views of the same underlying structures**.
+
+---
+
+## 📚 What You Can Find Here
+
+Within this vault you will encounter:
+
+- **Core expositions**  
+  Longer texts that lay out Laegna’s central ideas, often starting in the root document and continuing into attached notes.
+
+- **Concept notes and side paths**  
+  Shorter pieces that zoom into a particular pattern, definition, or question. These can often be read on their own and still reveal part of the whole.
+
+- **Reflections and narrative fragments**  
+  More personal or exploratory writing, where the system is tested against lived experience, intuition, or symbolic imagery.
+
+- **Technical and semi‑technical pieces**  
+  Texts that connect Laegna to AI, logic, and mathematical formalisms, resonant with the author’s other work such as LaegnaDocumentation and LaegnaAIBasics.
+
+The **Laegna** subtree (folder) collects the “side pane” of this main document: all the attached pages and their own sub‑branches, similar to how the original Notion workspace presented the material.
+
+---
+
+## 🧭 How to Approach the Vault
+
+A suggested way to enter:
+
+1. **Start with the main Laegna document**  
+   Read it as a continuous narrative to get the overall sense of what Laegna is trying to do.
+
+2. **Follow the links into the Laegna subtree**  
+   When a topic feels important or dense, open the linked note that deepens that particular idea.
+
+3. **Let patterns emerge**  
+   You will see recurring themes: invariants, layers, resonance, balance, alignment, emergence. The vault is written so that seeing the same pattern in different contexts is part of the learning.
+
+You can read this purely philosophically, as a **symbolic system**, or as background for the more technical AI‑related Laegna work described in other repositories.
+
+---
+
+## 🌐 Related Entry Points
+
+If you want to place this vault in its wider context:
+
+- **Main website:**  
+  https://spireason.neocities.org/ — a broader portal into the author’s theoretical work.
+
+- **Laegna AI basics:**  
+  https://github.com/tambetvali/LaegnaAIBasics — an intuitive introduction to deep learning and AI foundations connected to Laegna ideas.
+
+- **Laegna documentation ecosystem:**  
+  https://github.com/tambetvali/LaegnaDocumentation — a modular system for AI‑assisted research and knowledge structuring around Laegna.
+
+This vault is the **inner text** of that landscape: a place where the concepts themselves live in their original, exploratory form.
